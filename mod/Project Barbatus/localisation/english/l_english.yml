@@ -5,82 +5,82 @@
  SEPARATOR:0 "---"
  
  ADJ_WITH_THE:0 "the $ADJ|Y$"
- OUR:0 "our"
+ OUR:0 "Bizim"
  
- ETA:0 "Estimated Arrival Date: $DATE|H$ §Y($DAYS$ $DAY_OR_DAYS$)§!"
- ETA_DAY:0 "day"
- ETA_DAYS:0 "days"
+ ETA:0 "Tahmini Varış Zamanı: $DATE|H$ §Y($DAYS$ $DAY_OR_DAYS$)§!"
+ ETA_DAY:0 "gün"
+ ETA_DAYS:0 "gün"
  
  RESOURCE_AI_VALUE:0 "AI VALUE: $VALUE$"
  
  PLAYER_EMPIRE_MP:0 "§Y$NAME$ (Player Empire)§!"
  PLAYER_EMPIRE_SP:0 "§YPlayer Empire§!"
  
- SHIP_SIZE_LIMIT_REACHED:0 "£trigger_no Our empire can only support $NUM|Y$ $SIZE$-size ship(s)."
- FED_SHIP_SIZE_LIMIT_REACHED:0 "£trigger_no Our Federation can only support $NUM|Y$ $SIZE$-size ship(s)."
+ SHIP_SIZE_LIMIT_REACHED:0 "£trigger_no İmparatorluğumuz sadece $NUM|Y$ $SIZE$ gemiyi destekleyebilir."
+ FED_SHIP_SIZE_LIMIT_REACHED:0 "£trigger_no Federasyonumuz sadece $NUM|Y$ $SIZE$ gemiyi destekleyebilir."
  
  SHIPS_NUM:0 "§H$NUM$ x $CLASS$§!"
  SHIPS_WANTED:0 " §R($NUM$ wanted)§!"
  
- SHIP_DESIGN_NAME_RANDOMIZE_TOOLTIP:0 "Randomize Name"
+ SHIP_DESIGN_NAME_RANDOMIZE_TOOLTIP:0 "Rastgele İsimlendir"
  
- CANNOT_RELEASE_CULTURE_SHOCK:0 "Can't release a planet that is experiencing Stellar Culture Shock."
+ CANNOT_RELEASE_CULTURE_SHOCK:0 "Uzay Kültür Şoku yaşamakta olan bir gezegeni serbest bırakamyız."
  
- SYSTEM_RESTRICTED:1 "System Restricted"
- SYSTEM_IS_RESTRICTED:0 "§RSystem Restricted§!\nOur fleets will avoid traveling through $SYSTEM|Y$."
- SYSTEM_NOT_RESTRICTED:0 "§GSystem Not Restricted§!\nOur fleets may freely travel through $SYSTEM|Y$."
- SYSTEM_RESTRICTION_TOOLTIP:0 "§EClick to toggle the restriction status of $SYSTEM|Y$. Systems that are set as restricted will always be avoided by our fleets.§!"
+ SYSTEM_RESTRICTED:1 "Sistem Erişime Kısıtlı"
+ SYSTEM_IS_RESTRICTED:0 "§RSistem erişime kısıtlıdır.§!\nDonanmalarımız $SYSTEM|Y$ sistemine girmekten kaçınacaktır."
+ SYSTEM_NOT_RESTRICTED:0 "§GSistem erişime kısıtlı değildir.§!\nDonanmalarımız $SYSTEM|Y$ sisteminden istedikleri gibi geçebileceklerdir."
+ SYSTEM_RESTRICTION_TOOLTIP:0 "§E$SYSTEM|Y$ sisteminin erişim durumunu açıp kapamak için tıklayın. Filolarımız erişime kısıtlı sistemlere uğramayacaktır.§!"
  
- fleet_force_disparity_effect:0 "Force Disparity"
+ fleet_force_disparity_effect:0 "Güç Eşitsizliği"
  
- feature_war_doctrines:0 "War Doctrines"
- feature_war_doctrines_desc:0 "Allows us to choose a §HWar Doctrine§! from the §HPolicies§! tab."
+ feature_war_doctrines:0 "Savaş Doktrinleri"
+ feature_war_doctrines_desc:0 "§HPolicies§! sekmesinden bir §HWar Doctrine§! seçmenize izin verir."
  
- STARBASE_COMPONENT_SLOT_AVAILABLE:0 "This Starbase has unused Module/Building slots."
- STARBASE_PLATFORM_UPGRADE_AVAILABLE:0 "This Starbase has Defense Platforms that can be upgraded."
+ STARBASE_COMPONENT_SLOT_AVAILABLE:0 "Bu Yıldızüssü kullanılmayan Modül/Bina yerine sahip."
+ STARBASE_PLATFORM_UPGRADE_AVAILABLE:0 "Bu Yıldızüssü yükseltilebilecek Savunma Platformlarına sahip."
  
- piracy_risk:0 "Piracy Risk"
+ piracy_risk:0 "Korsanlık Riski"
  PIRACY_LABEL:0 "$piracy_risk$:"
 
- STATION:0 "Station"
+ STATION:0 "İstasyon"
  TRIGGER_PASS:1 "£trigger_yes "
  TRIGGER_FAIL:1 "£trigger_no "
  ICON_COLOR_VALUE:0 "£$ICON$ $VALUE|0$"
  ICON_VALUE_POSITIVE:0 "£$ICON$ $VALUE|0+=$"
  ICON_VALUE_NEGATIVE:0 "£$ICON$ $VALUE|0-$"
  
- land_appropriation:0 "Land Appropriated"
- land_appropriation_desc:0 "Land was seized from the native population of this planet to make room for citizen settlers.\n\n§YWhile this modifier is in effect, non-citizen species are not allowed to grow their population on this planet.§!"
+ land_appropriation:0 "Topraklara El Konuldu"
+ land_appropriation_desc:0 "Vatandaşlığa sahip yerleşimcilere yer açmak için bu gezegendeki yerlilerin toprağına el konuldu.\n\n§YBu özellik varken gezegende yaşayan vatandaş olmayan türler nüfuslarını çoğaltamaz.§!"
  
- TRAIT_CHARISMATIC_EFFECT:2 "Ruler Opinion Impact: §G+25§!\n$MOD_POP_OTHER_SPECIES_OWNER_HAPPINESS$: §G+5%§!"
- TRAIT_REPUGNANT_EFFECT:2 "Ruler Opinion Impact: §R-25§!\n$MOD_POP_OTHER_SPECIES_OWNER_HAPPINESS$: §R-5%§!"
- TRAIT_EMOTION_EMULATORS_EFFECT:0 "Ruler Opinion Impact: §G+25§!"
- TRAIT_UNCANNY_EFFECT:0 "Ruler Opinion Impact: §R-25§!"
+ TRAIT_CHARISMATIC_EFFECT:2 "Yöneticinin İlişki Etkisi: §G+25§!\n$MOD_POP_OTHER_SPECIES_OWNER_HAPPINESS$: §G+5%§!"
+ TRAIT_REPUGNANT_EFFECT:2 "Yöneticinin İlişki Etkisi: §R-25§!\n$MOD_POP_OTHER_SPECIES_OWNER_HAPPINESS$: §R-5%§!"
+ TRAIT_EMOTION_EMULATORS_EFFECT:0 "Yöneticinin İlişki Etkisi: §G+25§!"
+ TRAIT_UNCANNY_EFFECT:0 "Yöneticinin İlişki Etkisi: §R-25§!"
  
- POP_HABITABILITY_TOO_LOW:0 "§RPlanet Habitability for Pop is below §R20%§!.§!"
- POP_MAY_NOT_LIVE_ON_PLANET:0 "§RSpecies Rights for Pop does not permit residence on this planet.§!"
+ POP_HABITABILITY_TOO_LOW:0 "§RNüfusun gezegendeki yaşanabilirlik oranı §R20%§! değerinin altında.§!"
+ POP_MAY_NOT_LIVE_ON_PLANET:0 "§RNüfus için olan Tür Hakları bu gezegende yaşamasına izin vermiyor.§!"
  
- CANNOT_ENLIGHTEN_FANATIC_XENOPHOBE:0 "Not possible to technologically enlighten Primitives that are §H$ethic_fanatic_xenophobe$§!."
+ CANNOT_ENLIGHTEN_FANATIC_XENOPHOBE:0 "§H$ethic_fanatic_xenophobe$§! olan İlkeller teknoloji ile aydınlatılamaz."
  
- FOOD_NO_NEED:0 "§YWe have no Pops that require Food to sustain them.§!"
- FOOD_NO_PLANETS:0 "§YWe have no Planets that require Food to grow.§!"
- FOOD_SURPLUS_STARVATION:0 "§ROur empire is starving, halting all £pops  §YPop Growth§!.§!"
- FOOD_SURPLUS_NONE:0 "§YWe are currently stockpiling Food. Until our stockpile is full we will get no bonus £pops  §YPop Growth§!.§!"
- FOOD_SURPLUS:2 "§GOur monthly Food surplus increases the speed of £pops  §YPop Growth§! by §Y$AMT$%§! on $NUM|Y$ planet(s).§!"
- FROM_FOOD_SURPLUS:1 "From Food Surplus: $VALUE|Y=2$"
+ FOOD_NO_NEED:0 "§YYaşaması için Yiyeceğe ihtiyacı olan bir Nüfusa sahip değiliz.§!"
+ FOOD_NO_PLANETS:0 "§YBüyümek için Yiyeceğe ihtiyacı olan bir Gezegene sahip değiliz.§!"
+ FOOD_SURPLUS_STARVATION:0 "§Rİmparatorluğumuz açlıktan ölüyor, tüm £pops  §YPop Growth§! durdu.§!"
+ FOOD_SURPLUS_NONE:0 "§YŞu anda Yiyecek depoluyoruz. Depomuz dolana kadar £pops  §YPop Growth§! için bonus almayacağız.§!"
+ FOOD_SURPLUS:2 "§GAylık Yiyecek fazlalığımız $NUM|Y$ gezegende £pops  §YPop Growth§! hızını §Y$AMT$%§! arttırıyor.§!"
+ FROM_FOOD_SURPLUS:1 "Yiyecek Fazlalığından: $VALUE|Y=2$"
 
- SPECIES_LACKS_OPTION:0 "§RYour chosen Species Appearance does not offer any secondary options in this category.§!"
+ SPECIES_LACKS_OPTION:0 "§RSeçtiğiniz Türün Görünüşü bu kategoride ikinci bir seçeneğe izin vermiyor.§!"
 
- GENERATING_UNREST:0 "This Pop is unhappy, generating $AMOUNT|1R$ Unrest on the planet."
+ GENERATING_UNREST:0 "Bu nüfus mutsuz, gezegende $AMOUNT|1R$ Huzursuzluk yaratıyor."
  
- STRATEGY_DATA:0 "Strategy Data"
+ STRATEGY_DATA:0 "Strateji Verisi"
  AI_STRATEGY_ENTRY:0 "$NAME|Y$ ($VALUE$)"
 
- ALL:0 "All"
+ ALL:0 "Hepsi"
  
- RT_CUSTODIAN:0 "Custodian"
- RT_ERROR:0 "<ERROR>"
- TERRAFORMING_CANDIDATE_EFFECT:0 "§Y[From.GetName]§! will be able to be terraformed once the £society  §H$tech_climate_restoration$§! technology has been researched."
+ RT_CUSTODIAN:0 "Koruyucu"
+ RT_ERROR:0 "<HATA>"
+ TERRAFORMING_CANDIDATE_EFFECT:0 "§Y[From.GetName]§!, §H$tech_climate_restoration$§! teknolojisi araştırıldığnda dünyalılaştırılabilecek."
  
  gov_galactic_defense_unit:0 "Final Defense Unit"
  gov_galactic_defense_unit_desc:0 "This Custodian Matrix AI has activated its Final Defense Directives and is devoting all resources to protecting the galaxy against the Contingency."
