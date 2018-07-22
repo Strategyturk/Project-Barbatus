@@ -1,0 +1,8 @@
+bitmapfonts = {
+	
+	bitmapfont = {
+		name = "load_screen"
+		path = "gfx/fonts/orbitron_28"
+		color = 0xffffffff
+	}
+}
