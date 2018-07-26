@@ -97,8 +97,7 @@
  ART_sound_04:0 "dikizleme"
  ART_sound_05:0 "ağıt"
  ART_organ:0 "mesenteron"
- ART_mouth:0 "altçene
- "
+ ART_mouth:0 "altçene"
  ART_hand:0 "$PRE_ART_hand$"
  MOL:0 "Yumuşakça"
  MOL_desc:1 "Türler sınıfının imparatorluğunuz üzerinden hiç bir etkisi yoktur, ancak Yumuşakça-sınıfı türü diğer Yumuşakça-sınıfıları öteki türlere nazaran daha az yabancı görebilir."
