@@ -3,7 +3,7 @@ l_english:
  ####################################
  # Modifiers
  ####################################
-
+ #+5
  #Country
  MOD_BLANK_MODIFIER:0 "Boş Etki"
  MOD_COUNTRY_OCCUPATION_ARMIES_ADD:0 "Maksimum İşgal Garnizonu"
@@ -120,17 +120,17 @@ l_english:
  MOD_POP_ETHICS_SHIFT_SPEED:0 "Etik Değişim Olasılığı"
  MOD_POP_ETHICS_SHIFT_SPEED_DESC:0 "Bir Nüfusun etiğinin değişme şansı bu değerden etkilenir."
  MOD_POP_SLOTS:0 "Nüfus Slotu"
- MOD_POP_FOOD_REQ:1 "Yemek Tüketimi"
- MOD_POP_FOOD_REQ_DESC:0 "İmparatorluktaki tüm Nüfusun Yemek ihtiyacı bu değerden etkilenir."
+ MOD_POP_FOOD_REQ:1 "Yiyecek Tüketimi"
+ MOD_POP_FOOD_REQ_DESC:0 "İmparatorluktaki tüm Nüfusun Yiyecek ihtiyacı bu değerden etkilenir."
  MOD_POP_FOOD_REQ_MULT:0 "$MOD_POP_FOOD_REQ$"
- MOD_POP_FOOD_REQ_MULT_DESC:0 "İmparatorluktaki tüm Nüfusun Yemek ihtiyacı bu değerden etkilenir."
+ MOD_POP_FOOD_REQ_MULT_DESC:0 "İmparatorluktaki tüm Nüfusun Yiyecek ihtiyacı bu değerden etkilenir."
  MOD_POP_GROWTH_SPEED_REDUCTION:0 "Nüfus Büyümesinde Azalma"
  MOD_POP_GROWTH_SPEED:1 "Nüfus Büyüme Hızı"
  MOD_POP_GROWTH_SPEED_DESC:0 "Bu değer Nüfusun büyüme hızını etkiler."
  MOD_POP_GROWTH_REQ:1 "Büyüme Süresi"
- MOD_POP_GROWTH_REQ_DESC:1 "Bu değer yeni bir Nüfusun tamamen büyümesi için gereken Yemek miktarını etkiler."
+ MOD_POP_GROWTH_REQ_DESC:1 "Bu değer yeni bir Nüfusun tamamen büyümesi için gereken Yiyecek miktarını etkiler."
  MOD_POP_GROWTH_REQ_MULT:1 "Büyüme Süresi"
- MOD_POP_GROWTH_REQ_MULT_DESC:1 "Bu değer yeni bir Nüfusun tamamen büyümesi için gereken Yemek miktarını etkiler."
+ MOD_POP_GROWTH_REQ_MULT_DESC:1 "Bu değer yeni bir Nüfusun tamamen büyümesi için gereken Yiyecek miktarını etkiler."
  MOD_POP_EFF_WO_SLAVES:3 "Kölesiz Nüfus Mutluluğu"
  pop_happiness_without_slaves:1 "Köle Nüfus Eksikliği"
  MOD_POP_FORTIFICATION_DEFENSE:0 "İstihkam Savunma Bonusu"
@@ -147,10 +147,10 @@ l_english:
  MOD_POP_NON_SLAVE_RESOURCE_OUTPUT:0 "Özgür Nüfusun Kaynak Üretimi"
  MOD_POP_NON_FOOD_RESOURCE_OUTPUT:0 "Nüfusta Üretim Düşüşü"
  MOD_POP_SLAVE_MINERAL_OUTPUT:3 "Kölelerin Mineral Üretimi"
- MOD_POP_SLAVE_FOOD_OUTPUT:1 "Kölelerin Yemek Üretimi"
+ MOD_POP_SLAVE_FOOD_OUTPUT:1 "Kölelerin Yiyecek Üretimi"
  MOD_POP_ROBOT_PRODUCTION_OUTPUT:1 "Robotların Kaynak Üretimi"
  MOD_POP_ROBOT_NON_ENERGY_OUTPUT:0 "$MOD_POP_ROBOT_PRODUCTION_OUTPUT$"
- MOD_POP_FOOD_ADD:1 "İşlenmeyle Üretilen Yemek"
+ MOD_POP_FOOD_ADD:1 "İşlenmeyle Üretilen Yiyecek"
  MOD_POP_FOOD_MULT:2 "$MOD_POP_FOOD_ADD$"
  MOD_POP_ENERGY_ADD:0 "İşlenmeyle Üretilen Enerji"
  MOD_POP_ENERGY_MULT:0 "$MOD_POP_ENERGY_ADD$"
@@ -370,7 +370,7 @@ l_english:
  tile_resource_society_research_mult_DESC:0 "The Society Research produced by all Pops within the Empire is adjusted by this value." #altunbaş 
  tile_resource_engineering_research_mult:2 "Alan Mühendislik Üretimi"
  tile_resource_engineering_research_mult_DESC:0 "The Engineering Research produced by all Pops within the Empire is adjusted by this value." #altunbaş
- tile_resource_food_mult:0 "Yemek"
+ tile_resource_food_mult:0 "Yiyecek"
  tile_resource_food_mult_DESC:0 "The Food produced by all Pops within the Empire is adjusted by this value." #altunbaş
  tile_resource_energy_add:0 "Enerji Kredisi"
  tile_building_resource_energy_add:0 "$tile_resource_energy_add$"
@@ -382,17 +382,17 @@ l_english:
  tile_building_resource_physics_research_add:0 "Fizik Araştırması"
  tile_building_resource_society_research_add:0 "Toplum Araştırması"
  tile_building_resource_engineering_research_add:0 "Mühendislik Araştırması"
- tile_resource_food_add:0 "Yemek Üretimi"
- tile_building_resource_food_add:0 "Yemek Üretimi"
+ tile_resource_food_add:0 "Yiyecek Üretimi"
+ tile_building_resource_food_add:0 "Yiyecek Üretimi"
  planet_resource_food_add:0 "Planet Food" #altunbaş
  planet_resource_minerals_add:0 "Planet Minerals" #altunbaş
  max_minerals:0 "Mineral Depolama Kapasitesi"
- max_food:0 "Yemek Depolama Kapasitesi"
+ max_food:0 "Yiyecek Depolama Kapasitesi"
  max_energy:0 "Enerji Depolama Kapasitesi"
  max_influence:0 "Nüfuz Depolama Kapasitesi"
  country_resource_energy_add:1 "Aylık Enerji"
  country_resource_minerals_add:1 "Aylık Mineral"
- country_resource_food_add:0 "Aylık Yemek"
+ country_resource_food_add:0 "Aylık Yiyecek"
  tile_resource_unity_mult:0 "Bütünlük Üretimi"
  tile_building_resource_unity_mult:0 "$tile_resource_unity_mult$"
  tile_resource_unity_mult_DESC:0 "The Unity produced by all Pops within the Empire is adjusted by this value." #altunbaş
@@ -401,7 +401,7 @@ l_english:
  planet_resource_unity_add:0 "Gezegenin Bütünlük Üretimi"
  country_resource_unity_add:0 "Aylık Bütünlük"
  tile_resource_unity_add:0 "Bütünlük Üretimi"
- country_resource_food_mult:0 "Yemek Üretimi"
+ country_resource_food_mult:0 "Yiyecek Üretimi"
  static_resource_energy_add:0 "$country_resource_energy_add$"
  static_resource_unity_add:0 "$country_resource_unity_add$"
  static_resource_minerals_add:0 "$country_resource_minerals_add$"
@@ -645,17 +645,17 @@ l_english:
  ruler_ship:0 "Liderler için gelişmiş gemi yapımı"
  ruler_station:0 "Liderler için gelişmiş istasyon inşaatı"
 
- assist_research:0 "Research Assistance"
- assist_research_desc:1 "Planetside research facilities are assisted by a Science Ship in orbit."
+ assist_research:0 "Araştırmaya Destek"
+ assist_research_desc:1 "Gezegendeki araştırma tesisleri yörüngedeki Bilim Gemisi tarafından desteklenmekte."
 
- previous_deal_broken:0 "Broken trade deals"
- previous_deal_ended:0 "Fulfilled trade deals"
+ previous_deal_broken:0 "Bozulan ticaret antlaşmaları"
+ previous_deal_ended:0 "Yerine getirilen ticaret antlaşmaları"
  
- extradimensionals_defeated:0 "Extradimensionals Defeated"
- nationalist_corruption:1 "Nationalist Corruption"
- nationalist_corruption_desc:1 "Subversive members of a Nationalist faction on this planet reduce output efficiency."
- planet_separatist_strikes:0 "Separatist Strikes"
- planet_separatist_strikes_desc:0 "Members of a Separatists faction are striking on this planet, reducing potential output."
+ extradimensionals_defeated:0 "Çok Boyutlular Malup Edildi"
+ nationalist_corruption:1 "Milliyetçi Yolsuzluk"
+ nationalist_corruption_desc:1 "Bu gezegendeki vandal Milliyetçi parti üyeleri üretim verimini düşürmekte."
+ planet_separatist_strikes:0 "Ayrılıkçı Grevleri"
+ planet_separatist_strikes_desc:0 "Bu gezegende Ayrılıkçı parti üyeleri grevde, potansiyel üretimi düşürüyorlar."
  planet_separatist_supporter:0 "Planet separatist supporter"
  planet_separatist_supporter_desc:0 "Planet separatist supporter"
  sector_separatist_supporter:0 "Sector separatist supporter"
