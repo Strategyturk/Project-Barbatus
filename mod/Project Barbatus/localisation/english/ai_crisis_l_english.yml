@@ -2,7 +2,7 @@
 
  ### AI Crisis
 
- crisis.2010.name:0 "The Ghost Signal"
+ crisis.2010.name:0 "Hayalet Sinyal"
  crisis.2010.desc:0 "We have detected a very faint tachyon signal being continuously transmitted across the entire galaxy. Our technicians are unable to trace the signal to its source, as it is being bounced between several hidden relay stations.\n\nAside from adding a small amount of background noise in FTL transmissions on certain subspace frequencies, the signal does not seem to have any apparent effect. Efforts to track the relay stations are underway, but until then we may simply have to learn to live with this "§HGhost Signal§!," as it has been dubbed by the more imaginative elements of galactic media."
  crisis.2010.desc.b:0 "Our sensors have registered a faint tachyon signal being transmitted across the galaxy between multiple hidden relay stations. Aside from adding a small amount of background noise in FTL transmissions on certain subspace frequencies, the signal has no apparent effect or purpose. The organics have code-named it the "§HGhost Signal§!."\n\nWe have commenced tracking protocols to locate its source, but as of yet, the signal is too weak. We may not have to wait much longer though, as it is growing in strength at an alarming rate."
  crisis.2010.a:0 "Monitor the signal for any changes."
