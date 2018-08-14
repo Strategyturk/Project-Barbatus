@@ -486,23 +486,23 @@ l_english:
  shipsize_observation_station_build_cost_mult:0 "Gözetleme İstasyonu Yapım Maliyeti"
 
  shipsize_corvette_upkeep_mult:0 "Korvet Bakım Masrafı"
- shipsize_corvette_hull_mult:0 "Korvet Hull Points"
+ shipsize_corvette_hull_mult:0 "Korvet Gövde Puanı"
  shipsize_corvette_hull_add:0 "$shipsize_corvette_hull_mult$"
  
  shipsize_destroyer_upkeep_mult:0 "Muhrip Bakım Masrafı"
- shipsize_destroyer_hull_mult:0 "Muhrip Hull Points"
+ shipsize_destroyer_hull_mult:0 "Muhrip Gövde Puanı"
  shipsize_destroyer_hull_add:0 "$shipsize_destroyer_hull_mult$"
  
  shipsize_cruiser_upkeep_mult:0 "Kruvazör Bakım Masrafı"
- shipsize_cruiser_hull_mult:0 "Kruvazör Hull Points"
+ shipsize_cruiser_hull_mult:0 "Kruvazör Gövde Puanı"
  shipsize_cruiser_hull_add:0 "$shipsize_cruiser_hull_mult$"
  
  shipsize_battleship_upkeep_mult:0 "Savaş Gemisi Bakım Masrafı"
- shipsize_battleship_hull_mult:0 "Savaş Gemisi Hull Points"
+ shipsize_battleship_hull_mult:0 "Savaş Gemisi Gövde Puanı"
  shipsize_battleship_hull_add:0 "$shipsize_battleship_hull_mult$"
  
  shipsize_titan_upkeep_mult:0 "Titan Bakım Masrafı"
- shipsize_titan_hull_mult:0 "Titan Hull Points"
+ shipsize_titan_hull_mult:0 "Titan Gövde Puanı"
  shipsize_titan_hull_add:0 "$shipsize_titan_hull_mult$"
  
  shipsize_spaceport_upkeep_mult:0 "Yıldız Limanı Bakım Masrafı"
