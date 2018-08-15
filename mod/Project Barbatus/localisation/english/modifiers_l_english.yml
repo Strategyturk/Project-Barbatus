@@ -1,4 +1,4 @@
- l_english:
+﻿l_english:
 
  ####################################
  # Modifiers
@@ -1313,5 +1313,3 @@
 
  MOD_COUNTRY_SENSOR_RANGE_ADD:0 "Ülke Sensör Menzili"
  MOD_SHIP_SENSOR_RANGE_ADD:0 "Sensör Menzili"
-
-#DUMANWASHERE
