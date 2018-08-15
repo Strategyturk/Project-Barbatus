@@ -90,17 +90,17 @@
  
  # Starbases
  tech_starbase_1:0 "Yıldız Üssü İnşaatı"
- tech_starbase_1_desc:0 "A centralized space installation built in close orbit around the system primary is necessary to make full use of the resources in a star system."
+ tech_starbase_1_desc:0 "Sistemin yakın yörüngesine kurulmuş merkezi bir uzay kurulumu yıldız sisteminin kaynaklarından tam anlamıyla yararlanılabilmesi için gereklidir"
  tech_starbase_2:0 "Yıldız Limanı"
- tech_starbase_2_desc:0 "The earliest starbases were little more than makeshift outposts. Permanent starports will enable us to maintain a firmer grip on star systems."
+ tech_starbase_2_desc:0 "İlk yıldız üsleri geçici ileri karakollara göre biraz daha iyiydi. Kalıcı yıldız limanları yıldız sistemlerini daha sağlam bir şekilde tutmamızı sağlayacaktır."
  tech_starbase_3:0 "Yıldız Kulesi"
- tech_starbase_3_desc:0 "As space traffic increases, larger and more defensible starbases are needed to maintain control over system spacelanes."
+ tech_starbase_3_desc:0 "Uzay trafiği arttıkça, sistem sınırlarımız üzerinden kontrol sağlayabilmek için daha büyük ve daha savunulabilir yıldız üslerine ihtiyaç vardır."
  tech_starbase_4:0 "Yıldız Kalesi"
- tech_starbase_4_desc:0 "These mighty space forts will provide a focal point for all military activity in a star system, and their presence is sure to deter all but the most stubborn attackers."
+ tech_starbase_4_desc:0 "Güçlü uzay kaleleri yıldız sistemlerinden askeri odak noktası oluşturacak ve onların varlığı özellikle inatçı saldırganları caydırmayı garanti edecektir."
  tech_starbase_5:0 "Hisar"
- tech_starbase_5_desc:0 "Plans for an immense battlestation capable of holding its own against several strike fleets are now being drawn up. If realized, these citadels will become monuments to greatness as much as system hubs."
+ tech_starbase_5_desc:0 "Bir takım saldırı filolarına karşı dayanabilecek engin savaş istasyonu planı şuan hazırlanmakta. Eğer gerçeğe dönüşürse bu hisarlar sistem merkezlerimiz gibi bizim yüceliğimizin birer anıtı olacaklar."
  
- tech_modular_engineering:0 "Modular Engineering"
+ tech_modular_engineering:0 "Modüler Mühendislik"
  tech_modular_engineering_desc:0 "Streamlined starbase construction procedures, using modular designs, will halve the present build cost and time."
  
  tech_defense_platform_hull_1:0 "Improved Structural Integrity"
