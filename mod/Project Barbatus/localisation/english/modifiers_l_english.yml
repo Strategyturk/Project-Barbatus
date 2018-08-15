@@ -139,8 +139,8 @@ l_english:
  MOD_POP_OWNER_HAPPINESS:0 "Köle Sahibi Nüfus Mutluluğu"
  MOD_POP_OTHER_SPECIES_OWNER_HAPPINESS:0 "Diğer Türlerin Köle Sahibi Nüfus Mutluluğu"
  MOD_POP_MIGRATION_SPEED:1 "Göç Etme Hızı"
- MOD_POP_MIGRATION_SPEED_DESC:0 "The time it takes for Pops to spontaneously move between planets within our Empire is adjusted by this value." #altunbaş
- MOD_POP_PROCESSING_OUTPUT:1 "Purged Pop Resource Output" #altunbaş
+ MOD_POP_MIGRATION_SPEED_DESC:0 "The time it takes for Pops to spontaneously move between planets within our Empire is adjusted by this value." #altunbas
+ MOD_POP_PROCESSING_OUTPUT:1 "Purged Pop Resource Output" #altunbas
  MOD_POP_RESOURCE_OUTPUT:1 "Nüfus Kaynak Üretimi"
  MOD_POP_RESOURCE_OUTPUT_REDUCTION:0 "Nüfusta Üretim Düşüşü"
  MOD_POP_SLAVE_RESOURCE_OUTPUT:3 "Kölelerde Üretim Düşüşü"
@@ -173,9 +173,9 @@ l_english:
  MOD_SHIP_UPKEEP_MULT_DESC:1 "İmparatorluktaki tüm gemilerin bakım masraflarını etkiler, bunları aktif tutmak için gereken ücreti arttırır ya da azaltır."
  MOD_SHIP_ORBIT_UPKEEP_MULT:0 "Demir Atmış Gemi Bakım Masrafı"
  MOD_SHIP_ORBIT_UPKEEP_MULT_DESC:0 "Yıldız Üslerinin yörüngelerindeki tüm gemilerin bakım masraflarını etkiler."
- MOD_SHIP_FTL_WARP_RANGE_MULT:0 "Warp Range" #altunbaş
- MOD_SHIP_FTL_HYPER_RANGE_MULT:0 "Hyper Range" #altunbaş
- MOD_SHIP_FTL_JUMPDRIVE_RANGE_MULT:0 "Jump Drive Range" #altunbaş
+ MOD_SHIP_FTL_WARP_RANGE_MULT:0 "Warp Range" #altunbas
+ MOD_SHIP_FTL_HYPER_RANGE_MULT:0 "Hyper Range" #altunbas
+ MOD_SHIP_FTL_JUMPDRIVE_RANGE_MULT:0 "Jump Drive Range" #altunbas
  MOD_SHIP_FTL_WORMHOLE_RANGE_MULT:0 "Solucan Deliği Menzili"
  MOD_SHIP_FTL_WORMHOLE_SPEED_MULT:0 "Solucan Deliği Oluşturma Hızı"
  MOD_SHIP_FTL_WORMHOLES_PER_STATION:0 "İstasyon Başına Aktif Solucan Deliği"
@@ -253,9 +253,9 @@ l_english:
  MOD_PLANET_BUILDING_TIME_MULT:0 "İnşaat Süresi"
  MOD_PLANET_CLEAR_BLOCKER_TIME_MULT:0 "Kullanılamayan Alan Açma Süresi"
  MOD_PLANET_BUILDING_COST_MULT:0 "İnşaat Bedeli"
- MOD_PLANET_BUILDING_COST_MULT_DESC:0 "Affects the resources needed to construct various buildings within the Empire, increasing or reducing the upfront cost." #altunbaş
+ MOD_PLANET_BUILDING_COST_MULT_DESC:0 "Affects the resources needed to construct various buildings within the Empire, increasing or reducing the upfront cost." #altunbas
  MOD_PLANET_BUILDING_UPKEEP_MULT:0 "Bina Bakım Masrafı"
- MOD_PLANET_BUILDING_UPKEEP_MULT_DESC:0 "Affects the upkeep neded to maintain various buildings within the Empire." #altunbaş
+ MOD_PLANET_BUILDING_UPKEEP_MULT_DESC:0 "Affects the upkeep neded to maintain various buildings within the Empire." #altunbas
  MOD_PLANET_CLEAR_BLOCKER_COST_MULT:0 "Clear Blocker Cost"
  MOD_PLANET_CLEAR_BLOCKER_COST_MULT_DESC:0 "Affects the resources required to clear a surface tile of a blocker."
  MOD_PLANET_MIGRATION_XENO_PULL:0 "Uzaylılar İçin Göç Çekicliği"
@@ -265,8 +265,8 @@ l_english:
  MOD_PLANET_ARMY_BUILD_TIME_MULT:1 "Ordu Eğitim Süresi"
  MOD_PLANET_ARMY_BUILD_TIME_MULT_DESC:0 "İmparatorluktaki ordu eğitimleri için gereken süreyi etkiler."
  MOD_PLANET_ARMY_BUILD_COST_MULT:0 "Ordu Eğitim Ücreti"
- MOD_PLANET_ARMY_BUILD_COST_MULT_DESC:0 "Affects the resources required to equip armies within the Empire, increasing or reducing the cost of recruitment." #altunbaş
- MOD_PLANET_BORDER_MULT:0 "Planet Border Extrusion" #altunbaş
+ MOD_PLANET_ARMY_BUILD_COST_MULT_DESC:0 "Affects the resources required to equip armies within the Empire, increasing or reducing the cost of recruitment." #altunbas
+ MOD_PLANET_BORDER_MULT:0 "Planet Border Extrusion" #altunbas
  MOD_COUNTRY_BORDER_FRICTION_MULT:0 "Sınır Çatışması"
  MOD_PLANET_BUILDING_BUILD_SPEED_MULT:0 "Bina Yapım Hızı"
  
@@ -276,7 +276,7 @@ l_english:
  #Fleet
  MOD_COUNTRY_NAVAL_CAP_ADD:0 "$NAVY_SIZE_TITLE$"
  MOD_COUNTRY_NAVAL_CAP_MULT:0 "$MOD_COUNTRY_NAVAL_CAP_ADD$"
- MOD_COUNTRY_NAVAL_CAP_ADD_DESC:0 "§E§H$MOD_COUNTRY_NAVAL_CAP_ADD$§! determines the amount of ships that an empire can effectively supply. Larger ships require a higher §H$MOD_COUNTRY_NAVAL_CAP_ADD$§! than smaller ships.§!" #altunbaş
+ MOD_COUNTRY_NAVAL_CAP_ADD_DESC:0 "§E§H$MOD_COUNTRY_NAVAL_CAP_ADD$§! determines the amount of ships that an empire can effectively supply. Larger ships require a higher §H$MOD_COUNTRY_NAVAL_CAP_ADD$§! than smaller ships.§!" #altunbas
  MOD_COUNTRY_TERRAFORMING_COST_MULT:0 "Dünyalaştırma Malyeti"
  MOD_SHIP_EMERGENCY_FTL_MIN_DAYS_ADD:1 "Acil IDH Zıplaması Bekleme Süresi"
  MOD_SHIP_EMERGENCY_FTL_MIN_DAYS_MULT:0 "$MOD_SHIP_EMERGENCY_FTL_MIN_DAYS_ADD$"
@@ -300,7 +300,7 @@ l_english:
  MOD_LEADER_SPECIES_EXP_GAIN:0 "Lider Tecrübe Kazancı"
 
  #Component
- MOD_COMPONENT_RANGE_MULT:0 "Component Range" #altunbaş
+ MOD_COMPONENT_RANGE_MULT:0 "Component Range" #altunbas
 
  #Pop factions
  MOD_POP_FACTION_SUPPORT_INCREASE_CHANCE_ADD:0 "Parti Desteğinin Yükselme Şansı"
@@ -318,11 +318,11 @@ l_english:
 
  #Spaceport
  MOD_STARBASE_SHIP_BUILD_COST_MULT:0 "Gemi Maliyeti"
- MOD_STARBASE_SHIP_BUILD_COST_MULT_DESC:0 "Affects the resources required to build ships within the Empire, increasing or reducing the cost of construction." #altunbaş
+ MOD_STARBASE_SHIP_BUILD_COST_MULT_DESC:0 "Affects the resources required to build ships within the Empire, increasing or reducing the cost of construction." #altunbas
  MOD_STARBASE_SHIP_BUILD_TIME_MULT:1 "Gemi Yapım Süresi"
- MOD_STARBASE_SHIP_BUILD_TIME_MULT_DESC:0 "Affects the time required to build ships within the Empire." #altunbaş
+ MOD_STARBASE_SHIP_BUILD_TIME_MULT_DESC:0 "Affects the time required to build ships within the Empire." #altunbas
  MOD_SPACEPORT_MODULE_COST_MULT:0 "Uzay Üssü Modül maliyeti"
- MOD_SPACEPORT_MODULE_COST_MULT_DESC:0 "Modifies the cost of adding Modules to a Spaceport, increasing or reducing the resources required." #altunbaş
+ MOD_SPACEPORT_MODULE_COST_MULT_DESC:0 "Modifies the cost of adding Modules to a Spaceport, increasing or reducing the resources required." #altunbas
  MOD_STARBASE_SHIP_BUILD_SPEED_MULT:0 "Gemi Yapım Hızı"
  MOD_STARBASE_DEFENSIVE_WAR_SHIP_BUILD_SPEED_MULT:0 "Gemi Yapım Hızı (Defensif Savaş)"
  
@@ -359,19 +359,19 @@ l_english:
  # Resource Modifiers
  ####################################
  tile_resource_energy_mult:0 "Enerji Kredisi"
- tile_resource_energy_mult_DESC:0 "The output of Energy Credits by all Pops within the Empire is adjusted by this value." #altunbaş
- country_resource_energy_mult_DESC:0 "Our total empire Energy production is adjusted by this value." #altunbaş
+ tile_resource_energy_mult_DESC:0 "The output of Energy Credits by all Pops within the Empire is adjusted by this value." #altunbas
+ country_resource_energy_mult_DESC:0 "Our total empire Energy production is adjusted by this value." #altunbas
  tile_resource_minerals_mult:0 "Mineral"
- tile_resource_minerals_mult_DESC:0 "The Mineral production of all Pops within the Empire is adjusted by this value." #altunbaş
+ tile_resource_minerals_mult_DESC:0 "The Mineral production of all Pops within the Empire is adjusted by this value." #altunbas
  country_resource_minerals_mult_DESC:0 "Our total empire Minerals production is adjusted by this value."
  tile_resource_physics_research_mult:2 "Alan Fizik Üretimi"
- tile_resource_physics_research_mult_DESC:0 "The Physics Research produced by all Pops within the Empire is adjusted by this value." #altunbaş
+ tile_resource_physics_research_mult_DESC:0 "The Physics Research produced by all Pops within the Empire is adjusted by this value." #altunbas
  tile_resource_society_research_mult:2 "Alan Toplum Üretimi"
- tile_resource_society_research_mult_DESC:0 "The Society Research produced by all Pops within the Empire is adjusted by this value." #altunbaş 
+ tile_resource_society_research_mult_DESC:0 "The Society Research produced by all Pops within the Empire is adjusted by this value." #altunbas 
  tile_resource_engineering_research_mult:2 "Alan Mühendislik Üretimi"
- tile_resource_engineering_research_mult_DESC:0 "The Engineering Research produced by all Pops within the Empire is adjusted by this value." #altunbaş
+ tile_resource_engineering_research_mult_DESC:0 "The Engineering Research produced by all Pops within the Empire is adjusted by this value." #altunbas
  tile_resource_food_mult:0 "Yiyecek"
- tile_resource_food_mult_DESC:0 "The Food produced by all Pops within the Empire is adjusted by this value." #altunbaş
+ tile_resource_food_mult_DESC:0 "The Food produced by all Pops within the Empire is adjusted by this value." #altunbas
  tile_resource_energy_add:0 "Enerji Kredisi"
  tile_building_resource_energy_add:0 "$tile_resource_energy_add$"
  tile_resource_minerals_add:0 "Mineral Üretimi"
@@ -384,8 +384,8 @@ l_english:
  tile_building_resource_engineering_research_add:0 "Mühendislik Araştırması"
  tile_resource_food_add:0 "Yiyecek Üretimi"
  tile_building_resource_food_add:0 "Yiyecek Üretimi"
- planet_resource_food_add:0 "Planet Food" #altunbaş
- planet_resource_minerals_add:0 "Planet Minerals" #altunbaş
+ planet_resource_food_add:0 "Planet Food" #altunbas
+ planet_resource_minerals_add:0 "Planet Minerals" #altunbas
  max_minerals:0 "Mineral Depolama Kapasitesi"
  max_food:0 "Yiyecek Depolama Kapasitesi"
  max_energy:0 "Enerji Depolama Kapasitesi"
@@ -395,9 +395,9 @@ l_english:
  country_resource_food_add:0 "Aylık Yiyecek"
  tile_resource_unity_mult:0 "Bütünlük Üretimi"
  tile_building_resource_unity_mult:0 "$tile_resource_unity_mult$"
- tile_resource_unity_mult_DESC:0 "The Unity produced by all Pops within the Empire is adjusted by this value." #altunbaş
+ tile_resource_unity_mult_DESC:0 "The Unity produced by all Pops within the Empire is adjusted by this value." #altunbas
  country_resource_unity_mult:0 "Aylık Bütünlük"
- country_resource_unity_mult_DESC:0 "Our total empire Unity production is adjusted by this value." #altunbaş
+ country_resource_unity_mult_DESC:0 "Our total empire Unity production is adjusted by this value." #altunbas
  planet_resource_unity_add:0 "Gezegenin Bütünlük Üretimi"
  country_resource_unity_add:0 "Aylık Bütünlük"
  tile_resource_unity_add:0 "Bütünlük Üretimi"
@@ -672,7 +672,7 @@ l_english:
  exd_strength_hard:0 "$exd_strength$"
  exd_strength_insane:0 "$exd_strength$"
 
- ai_strength:0 "Spare Cycles" #altunbaş
+ ai_strength:0 "Spare Cycles" #altunbas
  ai_strength_hard:0 "$ai_strength$"
  ai_strength_insane:0 "$ai_strength$"
 
@@ -683,9 +683,9 @@ l_english:
  enigmatic_power:0 "Enigmatiklerin Gücü"
  technosphere_power:0 "Teknoların Gücü"
  dreadnought_power:0 "Dreatnotların Gücü"
- sanctuary_power:0 "Sanctuary Power" #altunbaş
+ sanctuary_power:0 "Sanctuary Power" #altunbas
 
- curator_insight:0 "Curator Insight" #altunbaş
+ curator_insight:0 "Curator Insight" #altunbas
  curator_insight_desc:0 "Kütüphaneciler bilgilerini sizinle paylaştılar. Her ne kadar yüksek seviye çeviri gerektirse de bu bilgi sayesinde anlayışımız ilerleyecek."
  fallen_empire_gift_databanks:0 "Öncül Veri Ön Belleği"
  fallen_empire_gift_databanks_desc:0 "Bir Kadim İmparatorluk bize bilimsel bir verinin ön belleiğini hediye etti. Bu hediye araştırmalarımıza büyük oranda yardımcı olacak."
@@ -693,7 +693,7 @@ l_english:
  ship_orbit_repair:0 "Yörüngede Tamir"
  ship_max_damaged_effect:0 "Hasarlı Olma Dezavantajı"
  station_self_repair:0 "Kendi Kendine Tamir"
- jump_drive_cooldown:0 "Jump Drive Cooldown" #altunbaş
+ jump_drive_cooldown:0 "Jump Drive Cooldown" #altunbas
  
  ####################################
  # Pop Modifiers
@@ -714,7 +714,7 @@ l_english:
  pop_enslaved_domestic:1 "Domestik Kölelik"
  pop_enslaved_military:1 "Savaş Esirleri"
  pop_enslaved_livestock:1 "Besi Türü"
- pop_enslaved_matrix:0 "Grid Amalgamation" #altunbaş
+ pop_enslaved_matrix:0 "Grid Amalgamation" #altunbas
  pop_was_enslaved:0 "Önceden Köleydi"
  pop_enslaved_happiness:0 "Köle"
  pop_slavery:0 "Kölelik"
@@ -725,7 +725,7 @@ l_english:
  overcrowding:0 "Kalabalık"
  unemployed:0 "İşsiz"
  occupation:0 "İşgal"
- fanatics_vs_wrong:0 "Neighbors with Wrong Ethos" #altunbaş
+ fanatics_vs_wrong:0 "Neighbors with Wrong Ethos" #altunbas
  pop_war_happiness:1 "Ofansif Savaşta"
  pop_peace_happiness:0 "Barışta"
  pop_war_exhaustion:0 "Savaş Yorgunluğu"
@@ -734,14 +734,14 @@ l_english:
  pop_xenophobes_vs_migration:0 "Göç Antlaşmaları"
  pop_xenophiles_vs_migration:0 "Göç Antlaşmaları"
  pop_uplifted:0 "Daha İyi Konuma Geldi"
- pop_species_purging:0 "Arındırılan Tür" #altunbaş2
- pop_colony_purging:0 "Arındırılan Komşu" #altunbaş2
+ pop_species_purging:0 "Arındırılan Tür" #altunbas2
+ pop_colony_purging:0 "Arındırılan Komşu" #altunbas2
  pop_purging:0 "İmha Edilmekte"
  pop_purging_processing:0 "İşlenmekte"
  pop_purging_displacement:0 "Yerinden Çıkarılıyor"
  pop_purging_labor_camps:0 "Çalışma Kampları"
  pop_purging_neutering:0 "Kısırlaştırma"
- pop_purging_matrix:0 "Grid Amalgamated" #altunbaş
+ pop_purging_matrix:0 "Grid Amalgamated" #altunbas
  pop_had_purge:0 "Arındırma Denemesi"
  pop_species_had_purge:0 "Arındırılan Türler"
  pop_colony_had_purge:0 "Arındırılmış Komşular"
@@ -759,7 +759,7 @@ l_english:
  pop_drought_desc:1 "Nem eksikliğinden dolayı acı çekmekte."
  pop_did_not_kill_stalker:0 "Mutant Öldürme Başarısız"
  pop_liberation_fever:0 "Serbest Kalma Huzursuzluğu"
- pop_synth_paranoia:0 "Synth Paranoia" #altunbaş
+ pop_synth_paranoia:0 "Synth Paranoia" #altunbas
  pop_happiness_positive:0 "$HAPPINESS$"
  pop_happiness_negative:0 "$HAPPINESS$"
  pop_happiness_positive_slave:0 "$HAPPINESS$"
@@ -847,7 +847,7 @@ l_english:
  opinion_from_personality:0 "[Root.GetPersonalityName] Kişilik"
  opinion_desecrated_holy_world:0 "Kirletilmiş Kutsal Gezegen"
  opinion_desecrated_tomb_world:0 "Kirletilmiş Mezar Gezegen"
- opinion_researching_ai:1 "YZ Robotiklerini Takip Ediyor" #altunbaş2
+ opinion_researching_ai:1 "YZ Robotiklerini Takip Ediyor" #altunbas2
  opinion_encroaching_borders:0 "Taciz Edilen Sınırlar"
  opinion_fanatic_purifiers_vs_xeno:0 "Zeno Pislikler"
  opinion_both_fanatic_purifiers:0 "Yoldaş Fanatik Arındırıcılar"
@@ -875,9 +875,9 @@ l_english:
  opinion_subject_was_in_war_warlike:0 "Savaşta"
  opinion_subject_in_war_pacifist:0 "Savaşta"
  opinion_subject_in_war_warlike:0 "Savaşta"
- opinion_cede_planet:0 "Ceded planet At war" #altunbaş
+ opinion_cede_planet:0 "Ceded planet At war" #altunbas
  opinion_white_peace_not_accepted:0 "Beyaz Barış kabul edilemez"
- opinion_first_contact_hostility:0 "İlk Temas Düşmanlıkları" #altunbaş2
+ opinion_first_contact_hostility:0 "İlk Temas Düşmanlıkları" #altunbas2
  opinion_first_contact_war:0 "İlk Temasta Savaş"
 
  ## ACTIONS
@@ -920,7 +920,7 @@ l_english:
  opinion_allied_to_rival:0 "Rakiplerle Müttefik"
  opinion_rivals_with_ally:0 "Müttefiklerle Rakip"
  opinion_insult:0 "Aşağılanmış"
- opinion_subject_released:0 "Serbest Kalmış Vasal" #altunbaş2
+ opinion_subject_released:0 "Serbest Kalmış Vasal" #altunbas2
  opinion_non_agg_pact:0 "Saldırmazlık Paktı"
  opinion_closed_borders:0 "Kapalı Sınırlar"
  opinion_supports_independence:0 "Bağımsızlığı Destekliyor"
@@ -933,7 +933,7 @@ l_english:
 
  ## SUBJECT
  opinion_subject_relation:0 "Vasal İlişkisi"
- opinion_subject:0 "Aynı Derebey" #altunbaş2
+ opinion_subject:0 "Aynı Derebey" #altunbas2
  opinion_is_subject:0 "Vasal"
  opinion_subject_protection:0 "Koruma için kabul edilen"
  opinion_forced_subjectized:0 "Zorla Vasal"
@@ -957,13 +957,13 @@ l_english:
  opinion_took_station:0 "El Konan Kaynak İstasyonu"
  opinion_liberated_us:0 "Kurtarıcı"
  opinion_we_liberated:1 "Kurtarıldı"
- opinion_broke_away:0 "Breakaway State" #altunbaş
- opinion_broke_away_from:0 "Eski Zalimler" #altunbaş2
+ opinion_broke_away:0 "Breakaway State" #altunbas
+ opinion_broke_away_from:0 "Eski Zalimler" #altunbas2
 
  opinion_primitive_violation:0 "İlhak Edilen İlkel Canlılar"
  
  opinion_fallen_empire_gift:0 "Verilen Hediye"
- opinion_put_in_their_place:0 "Put in their place" #altunbaş
+ opinion_put_in_their_place:0 "Put in their place" #altunbas
  opinion_accepted_fallen_empire_demand:0 "Kabul Edilen Talepler"
  opinion_refused_fallen_empire_demand:0 "Reddedilen Talepler"
  opinion_accepted_fallen_empire_request:0 "Kabul Edilen İstek"
@@ -978,7 +978,7 @@ l_english:
  encroaching_colony:0 "Taciz Edilen Koloni"
  encroaching_scientists:0 "Taciz Edilen Bilim Adamları"
 
- opinion_shade_giver:0 "Gölge-Verici" #altunbaş2
+ opinion_shade_giver:0 "Gölge-Verici" #altunbas2
  opinion_ceded_starbase:0 "Saygı Duyulan Sınırlar"
  opinion_not_ceded_starbase:0 "Saygı Duyulmayan Sınırlar"
 
