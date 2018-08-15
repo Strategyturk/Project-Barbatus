@@ -6,15 +6,15 @@
  #        #       #  #     #  #     #        #      # #      #      #       #       #       #  #       # 
  #        ###     #  #     #  #     ###      #      # #     ###     ###     ###     ###     #  #     ##  
  
- FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_CRACKER:0 "Preparing to crack $PLANET|Y$"
- FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_SHIELDER:0 "Preparing to shield $PLANET|Y$"
- FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NUKE:0 "Preparing to nuke $PLANET|Y$"
- FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NEUTRON:0 "Preparing to neutron-bombard $PLANET|Y$"
- FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_GODRAY:0 "Preparing to make a believer out of $PLANET|Y$"
- FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_HYPNOSIS:0 "Preparing to manipulate $PLANET|Y$"
- FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NANOBOTS:0 "Preparing to cyborgize $PLANET|Y$"
- FLEETORDER_PLANET_KILLER_WINDUP:0 "Charging weapon: $PROGRESS|Y0%$"
- FLEETORDER_PLANET_KILLER_FIRING:0 "Firing weapon: $PROGRESS|Y0%$"
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_CRACKER:0 "$PLANET|Y$ gezegeninin çatlatılmasına hazırlanılıyor."
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_SHIELDER:0 "$PLANET|Y$ gezegenine kalkan kurulmasına hazırlanılıyor."
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NUKE:0 "$PLANET|Y$ gezegeninin bombalanmasına hazırlanılıyor."
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NEUTRON:0 "$PLANET|Y$ gezegeninin nötron-bombalanmasına hazırlanılıyor."
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_GODRAY:0 "$PLANET|Y$ gezegeninin inançla tanıştırılmasına hazırlanılıyor."
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_HYPNOSIS:0 "$PLANET|Y$ gezegeninin manipüle edilmesine hazırlanılıyor."
+ FLEETORDER_DESTROY_PLANET_WITH_PLANET_KILLER_NANOBOTS:0 "$PLANET|Y$ gezegeninin robotlaştırılmasına hazırlanılıyor."
+ FLEETORDER_PLANET_KILLER_WINDUP:0 "Doldurulan silah: $PROGRESS|Y0%$"
+ FLEETORDER_PLANET_KILLER_FIRING:0 "Ateşlenen silah: $PROGRESS|Y0%$"
  
  STATUS_QUO_CREATE_NEW_EMPIRE:0 "A new $SPECIES|Y$ Empire will be created as an ally or subject of $ACTOR|Y$ out of $SYSTEMS|H$ occupied $TARGET|Y$ system(s)"
  
