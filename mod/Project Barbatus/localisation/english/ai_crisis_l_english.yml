@@ -187,11 +187,11 @@
 
  ai_crisis_chain_title:0 "Sakınma"
  ai_crisis_chain_desc:0 "Galaksimizde uzun süredir uykuda olan bir yapayzeka uygarlığı uyandı. Kendilerine Sakınma diyorlar ve amaçlarının galaksi üzerindeki organik olsun veya olmasın tüm uygarlıkların ortadan kaldırılması olduğunu ifade ediyorlar."
- assimilated_worlds:0 "§YSakınma Tarafından Asimile Edilen Dünyalar§!"
- active_machine_worlds:0 "§YAktif Makine Dünyalar§!"
- contingency_kills_us:0 "§GTarafımızca Etkisiz Hale Getirilen Sakınma Savaş Aygıtları§!"
- contingency_kills_others:0 "§GBaşkaları Tarafından Etkisiz Hale Getirilen Sakınma Savaş Aygıtları§!"
- contingency_victims:0 "§RSakınma Tarafından Etkisiz Hale Getirilen Gemiler§!"
+ assimilated_worlds:0 "§YAsimile Edilmiş Dünya Sayısı§!"
+ active_machine_worlds:0 "§YAktif Makine Dünya Sayısı§!"
+ contingency_kills_us:0 "§GOrtadan Kaldırdığımız Savaş Aygıtı Sayısı§!"
+ contingency_kills_others:0 "§GBaşkalarınca Ortadan Kaldırılmış Savaş Aygıtı Sayısı§!"
+ contingency_victims:0 "§RSakınma Tarafından Ortadan Kaldırılmış Gemi Sayısı§!"
 
  ai_crisis_poi_1:0 "Makine Dünya"
  ai_crisis_poi_1_desc:0 "Bu Makine Dünya üzerinde gezegeni saran fabrikalar Sakınmanın yeni savaş aygıtlarına takviye kuvvetler üretiyor. Bu gezegenlerin Sakınmanın yegane takviye tedarikçi noktaları olduğu düşünülüyor."
