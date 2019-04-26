@@ -30,7 +30,7 @@
  unrest.101.name:0 "$unrest_title$ Terör"
  unrest.101.desc:0 "After a period of mounting tension, the unrest on §Y[Root.GetName]§! has resulted in terrorist action. While casualties and property damage were minimal, faith in the [Root.Owner.GetName]'s ability to protect its citizens has been shaken."
 
- unrest.105.name:0 "$unrest_title$ Severe Terror"
+ unrest.105.name:0 "$unrest_title$ Şiddetli Terör"
  unrest.105.desc:0 "A major incident has occurred on the badly-troubled colony of §Y[Root.GetName]§!. While state-critical facilities remain unscathed, extensive property damage and significant loss of life as a result of coordinated terrorist attacks have shaken the colony to its core."
 
  unrest.110.name:0 "$unrest_title$ Keeping the Peace"
